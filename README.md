@@ -1,2 +1,2 @@
 # Rubik-s-Cube-Using-Python
-Rubik's cube using python and matplotlib
+Rubik's cube using python and matplotlib and pygame
